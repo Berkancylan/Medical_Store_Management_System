@@ -1,0 +1,25 @@
+[{
+		"name":	"alveres",
+		"amount":	99,
+		"medicine_code":	547856
+	}, {
+		"name":	"parol",
+		"amount":	41,
+		"medicine_code":	559652
+	}, {
+		"name":	"Aspirin",
+		"amount":	100,
+		"medicine_code":	257584
+	}, {
+		"name":	"Ibuprofen",
+		"amount":	83,
+		"medicine_code":	251412
+	}, {
+		"name":	"Amoxicillin",
+		"amount":	84,
+		"medicine_code":	458693
+	}, {
+		"name":	"Metformin",
+		"amount":	12,
+		"medicine_code":	758785
+	}]

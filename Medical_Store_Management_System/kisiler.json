@@ -1,0 +1,16 @@
+[{
+		"name":	"Meryem",
+		"surname":	"Ekin",
+		"TC":	58474508596,
+		"medicine_code":	[-1, 547856, 458693]
+	}, {
+		"name":	"Selim",
+		"surname":	"Sahin",
+		"TC":	85212558584,
+		"medicine_code":	[-1, 251412]
+	}, {
+		"name":	"Mehmet",
+		"surname":	"Unsuz",
+		"TC":	56896575214,
+		"medicine_code":	[-1]
+	}]
